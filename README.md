@@ -1,4 +1,4 @@
-# up206-corinne
+# up221-corinne
 ## Profile
 - Hi everyone - my name is Corinne! I'm a 2nd year MURP in the Design and Development concentration (with a sprinkle of EAP classes).
 - I was born in Philly and grew up in Wayne, PA - a nearby suburb.
